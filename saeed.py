@@ -1322,7 +1322,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mlkjhgfdsaq1230 -cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://github.com/mlkjhgfdsaq1230/Trick/blob/main/Files.txt").text
+	r1=requests.get("https://github.com/mlkjhgfdsaq1230/Tricks/blob/main/File.txt").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
